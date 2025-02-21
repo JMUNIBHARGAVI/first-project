@@ -1,4 +1,4 @@
 # first-project
-Its my first project
+This is my first Git repository 
 <br>
 Author-Muni Bhargavi
